@@ -18,4 +18,4 @@ https://medium.com/@negidhirendersingh26/image-segmentation-using-classifier-82f
 
 
 ## License
-The MIT License (MIT). Please see the [license file](LICENSE) for more informat
+The Apache License 2.0. Please see the [license file](LICENSE) for more informat
